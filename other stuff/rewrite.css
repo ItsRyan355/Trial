@@ -1,0 +1,9 @@
+p{
+    color: blue;
+    font-size: xx-large;
+    font-weight: bolder;
+    font-style: italic;
+    background-image: url(../images/Delorien.png);
+    background-size: cover 100%;
+    background-repeat: no-repeat;
+}
